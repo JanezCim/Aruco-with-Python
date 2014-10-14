@@ -1,0 +1,1 @@
+/home/janez/Desktop/aruco_testproject/build/CMakeFiles/TestPyAruco.dir

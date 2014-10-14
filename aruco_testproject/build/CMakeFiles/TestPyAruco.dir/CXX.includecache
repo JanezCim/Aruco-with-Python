@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/janez/Desktop/aruco_testproject/TestPyAruco.cpp
+iostream
+-
+aruco/aruco.h
+-
+aruco/cvdrawingutils.h
+-
+opencv2/highgui/highgui.hpp
+-
+fstream
+-
+sstream
+-
+boost/python.hpp
+-
+
