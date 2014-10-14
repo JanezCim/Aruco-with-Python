@@ -6,6 +6,7 @@ I made this so Aruco library can be used with Python
 The whole process has been tesed on Ubuntu.
 
 Quick example setup:
+
 	1.Tutorial on how to setup python:
 		https://www.preney.ca/paul/archives/107
 
