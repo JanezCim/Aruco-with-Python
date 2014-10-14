@@ -5,24 +5,24 @@ I made this so Aruco library can be used with Python
 
 The whole process has been tesed on Ubuntu.
 
-Tutorial on how to setup python:
-https://www.preney.ca/paul/archives/107
+Quick example setup:
+	1.Tutorial on how to setup python:
+		https://www.preney.ca/paul/archives/107
 
-Follow the whole procedure thuraly, otherwise it will not work!
-
-
-Delete the "build" file, because it's compiled for my computer and build a new one with "mkdir build".
-
-then:
- 
-cd build
-cmake ..
-make
-
-Finally paste the Py.py file into new "build" file and run the example.
+		Follow the whole procedure thuraly, otherwise it will not work!
 
 
-"aruco_simple.cpp" is there just as copy from original "aruco-1.2.5" file to help with the functions from Aruco library.
+	2.Delete the "build" file, because it's compiled for my computer and build a new one with "mkdir build".
+
+	3.then:
+		cd build
+		cmake ..
+		make
+
+	4.Finally paste the Py.py file into new "build" file and run the example.
+
+
+	NOTE: "aruco_simple.cpp" is there just as copy from original "aruco-1.2.5" file to help with the functions from 		Aruco library.
 
 
 ######################################################################################################
